@@ -1,4 +1,13 @@
-## Hi there 👋
+Greetings and welcome to my GitHub! 
+
+As of writing 04/26 I am overhauling my entire git identity in order to present only the best of my personal, professional, and student projects. As such, there are a few gaps which I am endeavouring to fill in the near future.
+
+You will find no vibe-coded or AI projects, though I do sometimes explore the practicality of AI-assisted tools.
+
+Current projects:
+Steganosaurus - web-based steganography tools and encoder
+Cor Quick Reference - a toolkit for quick reference of all the tools and packages I am familiar with, to ensure a smooth re-enrty into its use
+Personal website - overhaul of personal resume and project website (git pages)
 
 <!--
 **CorSaxon/CorSaxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
