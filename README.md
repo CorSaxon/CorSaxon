@@ -1,25 +1,31 @@
-Greetings and welcome to my GitHub! 
+# Greetings and welcome!  
 
-As of writing 04/26 I am overhauling my entire git identity in order to present only the best of my personal, professional, and student projects. As such, there are a few gaps which I am endeavouring to fill in the near future.
+As of April 2026, this profile is under active overhaul curating only the best of my personal, professional, and student work. There are a few gaps; I am endeavouring to fill them.
 
-You will find no vibe-coded or AI projects, though I do sometimes explore the practicality of AI-assisted tools.
+---
 
-Current projects:
-Steganosaurus - web-based steganography tools and encoder
-Cor Quick Reference - a toolkit for quick reference of all the tools and packages I am familiar with, to ensure a smooth re-enrty into its use
-Personal website - overhaul of personal resume and project website (git pages)
+> *"Presented with something new, she could easily ignore the everyday."*
+> — Becky Chambers, *A Closed and Common Orbit*
 
-<!--
-**CorSaxon/CorSaxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Current projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**▸ Steganosaurus**
+web-based steganography tools and encoder
+
+**▸ Cor Quick Reference**
+toolkit for quick reference of tools and packages
+
+**▸ Personal website**
+overhaul of personal résumé and project site via GitHub Pages
+
+---
+
+> You will find no vibe-coded or AI-generated projects here —
+> though i do sometimes explore the practicality of AI-assisted tools.  
+> <sub>I promise the em-dash is ironic</sub>
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-corey--saxon-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corey-saxon/)
